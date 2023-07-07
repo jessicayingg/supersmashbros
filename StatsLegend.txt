@@ -1,0 +1,18 @@
+Kirby
+num played
+num wins
+
+Link
+num played
+num wins
+
+Meta Knight
+num played
+num wins
+
+Luigi
+num played
+num wins
+
+total num of games played
+
